@@ -26,7 +26,7 @@ The model for the new Witchery wolf altar utilizes the WWolf model from Dr Zhark
 
 A copy of the GNU Lesser General Public License can be found in the "Negligible License" folder inside the assets folder of the mod jar archive. 
 
-A copy of the GNU General Public license can be found inside the mod jar archive.
+A copy of the GNU General Public License can be found inside the mod jar archive.
 
 The source code for the Creeper Burn Core mod can be found here: https://github.com/culegooner/CreeperBurnCore
 
@@ -35,7 +35,7 @@ The source code for the Creeper Burn Core mod can be found here: https://github.
 <strong>elifoster</strong> - The source code for his mod "Witchery Patch" helped me understand how to use ASM to specifically modify Witchery code (https://github.com/elifoster/WitcheryPatch). This asset was used under the MIT license.
 
 
-<strong>Technocoder</strong> - Their blog taught me how to properly add manifest data for mods using the build.gradle file (https://blog.techno.fish/minecraft-forge-coremod-tutorial/).
+<strong>Technocoder</strong> - Their blog taught me how to properly add manifest data through the build.gradle file for mods that use ASM (https://blog.techno.fish/minecraft-forge-coremod-tutorial/).
 
 
 ## Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
