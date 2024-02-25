@@ -1,5 +1,6 @@
 # Wolf Altar Replacement
 Replaces the model and texture of the wolf altar from the Witchery mod.
+This mod is intended to be used with the Mo' Creatures Legacy mod and the Witchery mod.
 
 
 <details>
