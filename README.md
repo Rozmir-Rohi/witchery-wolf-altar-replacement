@@ -20,7 +20,7 @@ This mod is intended to be used with the Mo' Creatures Legacy mod and the Witche
         - A copy of the GNU Lesser Public License is provided along with a copy of the GNU General Public License.
         - Access is provided to the source code of the Library.
 
-A copy of the GNU Lesser General Public License can be found in the "Negligible Licenses" folder inside the assets folder of the mod jar archive. 
+A copy of the GNU Lesser General Public License can be found in the "Negligible License" folder inside the assets folder of the mod jar archive. 
 
 A copy of the GNU General Public license can be found inside the mod jar archive.
 
