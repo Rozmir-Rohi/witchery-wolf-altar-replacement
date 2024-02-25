@@ -3,8 +3,37 @@ Replaces the model and texture of the wolf altar from the Witchery mod.
 This mod is intended to be used with the Mo' Creatures Legacy mod and the Witchery mod.
 
 
+
 <details>
 <summary><h2>Credits & Assets Used:</h2></summary>
+<strong>culegooner</strong> - Their tutorial on ASM taught me how to replace class files from vanilla Minecraft and other mods using ASM. (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/1571568-tutorial-1-6-2-changing-vanilla-without-editing). Additionally, some of the source code for his mod "Creeper Burn Core" was used to implement ASM methods in this mod (see link to the Creeper Burn Core source code below). This asset was used under GNU Lesser General Public License v3.0. The different license of this project is permitted under the GNU Lesser General Public License v3.0 from the following sections:
+
+    GNU Lesser General Public License v3.0 - Section 0:
+    "..."The Library" refers to a covered work governed by this License",
+    "A “Combined Work” is a work produced by combining or linking an Application with the Library"
+
+ 
+    GNU Lesser General Public License v3.0 - Section 4:
+      "You may convey a Combined Work under terms of your choice" provided that:
+        - Private modifications are allowed.
+        - Notice is given that the Library is used
+        - A copy of the GNU Lesser Public License is provided along with a copy of the GNU General Public License.
+        - Access is provided to the source code of the Library.
+
+A copy of the GNU Lesser General Public License can be found in the "Negligible Licenses" folder inside the assets folder of the mod jar archive. 
+
+A copy of the GNU General Public license can be found inside the mod jar archive.
+
+The source code for the Creeper Burn Core mod can be found here: https://github.com/culegooner/CreeperBurnCore
+
+
+
+<strong>elifoster</strong> - The source code for his mod "Witchery Patch" helped me understand how to use ASM to specifically modify Witchery code (https://github.com/elifoster/WitcheryPatch). This asset was used under the MIT license.
+
+
+<strong>Technocoder</strong> - Their blog taught me how to properly add manifest data for mods using the build.gradle file (https://blog.techno.fish/minecraft-forge-coremod-tutorial/).
+
+
 
 
 ## Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
