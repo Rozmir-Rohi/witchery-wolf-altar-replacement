@@ -1,0 +1,9 @@
+package rozmir.wolf_altar_replacement;
+
+import cpw.mods.fml.common.DummyModContainer;
+
+public class WolfAltar extends DummyModContainer {
+	
+	
+
+}

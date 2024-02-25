@@ -1,0 +1,38 @@
+[02:22:35] [main/INFO]: Setting user: Player322
+[02:22:36] [Client thread/INFO]: LWJGL Version: 2.9.1
+[02:22:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Wolf Altar Replacement, FMLFileResourcePack:Witchery
+[02:22:47] [Sound Library Loader/INFO]: Sound engine started
+[02:22:48] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[02:22:48] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[02:22:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Wolf Altar Replacement, FMLFileResourcePack:Witchery
+[02:22:50] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[02:22:50] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[02:22:51] [Sound Library Loader/INFO]: Sound engine started
+[02:22:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[02:22:58] [Server thread/INFO]: Generating keypair
+[02:22:58] [Server thread/INFO]: Converting map!
+[02:22:58] [Server thread/INFO]: Scanning folders...
+[02:22:58] [Server thread/INFO]: Total conversion count is 0
+[02:22:59] [Server thread/INFO]: Preparing start region for level 0
+[02:23:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[02:23:01] [Server thread/INFO]: Player322[local:E:42ce72ec] logged in with entity id 65 at (-1871.5, 4.0, -245.5)
+[02:23:01] [Server thread/INFO]: Player322 joined the game
+[02:23:08] [Server thread/INFO]: Player322 has just earned the achievement [Taking Inventory]
+[02:23:08] [Client thread/INFO]: [CHAT] Player322 has just earned the achievement [Taking Inventory]
+[02:23:17] [Server thread/INFO]: Saving and pausing game...
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[02:23:17] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[02:23:18] [Server thread/INFO]: Stopping server
+[02:23:18] [Server thread/INFO]: Saving players
+[02:23:18] [Server thread/INFO]: Saving worlds
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[02:23:18] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[02:23:19] [Client thread/INFO]: Stopping!

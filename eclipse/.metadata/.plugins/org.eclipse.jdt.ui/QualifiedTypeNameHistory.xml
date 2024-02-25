@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.DummyModContainer"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="net.minecraft.client.model.ModelRenderer"/>
+<fullyQualifiedTypeName name="net.minecraft.client.model.ModelBase"/>
+<fullyQualifiedTypeName name="net.minecraft.client.model.ModelBox"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+</qualifiedTypeNameHistroy>
