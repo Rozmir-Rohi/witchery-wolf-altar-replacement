@@ -11,7 +11,7 @@ The model for the new Witchery wolf altar utilizes the WWolf model from Dr Zhark
 
 
 
-<strong>culegooner</strong> - Their tutorial on ASM taught me how to replace class files from vanilla Minecraft and other mods using ASM. (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/1571568-tutorial-1-6-2-changing-vanilla-without-editing). Additionally, some of the source code for his mod "Creeper Burn Core" was used to implement ASM methods in this mod (see link to the Creeper Burn Core source code below). This asset was used under GNU Lesser General Public License v3.0. The different license of this project is permitted under the GNU Lesser General Public License v3.0 from the following sections:
+<strong>culegooner</strong> - Their tutorial on ASM taught me how to replace class files from vanilla Minecraft and other mods using ASM. (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/1571568-tutorial-1-6-2-changing-vanilla-without-editing). Additionally, some of the source code for their mod "Creeper Burn Core" was used to implement ASM methods in this mod (the link to the Creeper Burn Core source code can be found below). This asset was used under GNU Lesser General Public License v3.0. The different license of this project is permitted under the GNU Lesser General Public License v3.0 from the following sections:
 
     GNU Lesser General Public License v3.0 - Section 0:
     "..."The Library" refers to a covered work governed by this License",
