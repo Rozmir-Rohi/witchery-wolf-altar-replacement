@@ -8,6 +8,7 @@
   "url": "https://modrinth.com/project/mo-creatures-legacy/",
   "updateUrl": "",
   "authorList": ["Rozmir"],
+  "parent":"MoCreatures",
   "credits": "",
   "logoFile": "",
   "screenshots": [],
